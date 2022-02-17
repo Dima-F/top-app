@@ -1,7 +1,7 @@
 export interface PageItem {
+    _id: string;
     alias: string;
     title: string;
-    _id: string;
     category: string;
 }
 
